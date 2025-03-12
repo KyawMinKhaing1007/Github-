@@ -462,5 +462,4 @@ ggplot(data, aes(x = Handedness, y = Score, fill = Handedness)) +
   theme_minimal()
 
 ```
-# Github-
-Github tutorial
+
